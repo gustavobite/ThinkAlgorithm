@@ -10,4 +10,10 @@
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
 
+    <string-array name="navigation_drawer_items_array">
+        <item>Filtros</item>
+        <item>Mais Acessados</item>
+        <item>Favoritos</item>
+    </string-array>
+
 </resources>
